@@ -1,7 +1,7 @@
     public class Main {
       public static void main(String[] args) {
         // if, else if y else
-        int numeroIf = 0;
+        int numeroIf = 7;
 
         if (numeroIf<0){
           System.out.println("e numeroIf " + numeroIf + " es negativo");
